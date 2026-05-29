@@ -68,7 +68,7 @@
             // txtindice
             // 
             this.txtindice.Location = new System.Drawing.Point(143, 34);
-            this.txtindice.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtindice.Margin = new System.Windows.Forms.Padding(2);
             this.txtindice.Name = "txtindice";
             this.txtindice.Size = new System.Drawing.Size(26, 20);
             this.txtindice.TabIndex = 55;
@@ -87,7 +87,7 @@
             this.btnlimpiarbuscador.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnlimpiarbuscador.IconSize = 16;
             this.btnlimpiarbuscador.Location = new System.Drawing.Point(880, 31);
-            this.btnlimpiarbuscador.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnlimpiarbuscador.Margin = new System.Windows.Forms.Padding(2);
             this.btnlimpiarbuscador.Name = "btnlimpiarbuscador";
             this.btnlimpiarbuscador.Size = new System.Drawing.Size(26, 24);
             this.btnlimpiarbuscador.TabIndex = 54;
@@ -108,7 +108,7 @@
             this.btnbuscar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnbuscar.IconSize = 16;
             this.btnbuscar.Location = new System.Drawing.Point(853, 31);
-            this.btnbuscar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnbuscar.Margin = new System.Windows.Forms.Padding(2);
             this.btnbuscar.Name = "btnbuscar";
             this.btnbuscar.Size = new System.Drawing.Size(23, 24);
             this.btnbuscar.TabIndex = 53;
@@ -120,7 +120,7 @@
             // txtbusqueda
             // 
             this.txtbusqueda.Location = new System.Drawing.Point(720, 32);
-            this.txtbusqueda.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtbusqueda.Margin = new System.Windows.Forms.Padding(2);
             this.txtbusqueda.Name = "txtbusqueda";
             this.txtbusqueda.Size = new System.Drawing.Size(119, 20);
             this.txtbusqueda.TabIndex = 52;
@@ -130,7 +130,7 @@
             this.cbobusqueda.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbobusqueda.FormattingEnabled = true;
             this.cbobusqueda.Location = new System.Drawing.Point(587, 31);
-            this.cbobusqueda.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbobusqueda.Margin = new System.Windows.Forms.Padding(2);
             this.cbobusqueda.Name = "cbobusqueda";
             this.cbobusqueda.Size = new System.Drawing.Size(117, 21);
             this.cbobusqueda.TabIndex = 51;
@@ -149,7 +149,7 @@
             // txtid
             // 
             this.txtid.Location = new System.Drawing.Point(183, 33);
-            this.txtid.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtid.Margin = new System.Windows.Forms.Padding(2);
             this.txtid.Name = "txtid";
             this.txtid.Size = new System.Drawing.Size(26, 20);
             this.txtid.TabIndex = 49;
@@ -191,7 +191,7 @@
             this.EstadoValor,
             this.Estado});
             this.dgvdata.Location = new System.Drawing.Point(248, 70);
-            this.dgvdata.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dgvdata.Margin = new System.Windows.Forms.Padding(2);
             this.dgvdata.MultiSelect = false;
             this.dgvdata.Name = "dgvdata";
             this.dgvdata.ReadOnly = true;
@@ -299,7 +299,7 @@
             this.btneliminar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btneliminar.IconSize = 16;
             this.btneliminar.Location = new System.Drawing.Point(36, 297);
-            this.btneliminar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btneliminar.Margin = new System.Windows.Forms.Padding(2);
             this.btneliminar.Name = "btneliminar";
             this.btneliminar.Size = new System.Drawing.Size(116, 19);
             this.btneliminar.TabIndex = 29;
@@ -311,7 +311,7 @@
             // 
             // btnlimpiar
             // 
-            this.btnlimpiar.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnlimpiar.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.btnlimpiar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnlimpiar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnlimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -321,7 +321,7 @@
             this.btnlimpiar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnlimpiar.IconSize = 16;
             this.btnlimpiar.Location = new System.Drawing.Point(36, 274);
-            this.btnlimpiar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnlimpiar.Margin = new System.Windows.Forms.Padding(2);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Size = new System.Drawing.Size(116, 19);
             this.btnlimpiar.TabIndex = 45;
@@ -343,7 +343,7 @@
             this.btnguardar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnguardar.IconSize = 16;
             this.btnguardar.Location = new System.Drawing.Point(36, 250);
-            this.btnguardar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnguardar.Margin = new System.Windows.Forms.Padding(2);
             this.btnguardar.Name = "btnguardar";
             this.btnguardar.Size = new System.Drawing.Size(116, 19);
             this.btnguardar.TabIndex = 44;
@@ -369,7 +369,7 @@
             this.cboestado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboestado.FormattingEnabled = true;
             this.cboestado.Location = new System.Drawing.Point(36, 218);
-            this.cboestado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cboestado.Margin = new System.Windows.Forms.Padding(2);
             this.cboestado.Name = "cboestado";
             this.cboestado.Size = new System.Drawing.Size(116, 21);
             this.cboestado.TabIndex = 42;
@@ -377,7 +377,7 @@
             // txttelefono
             // 
             this.txttelefono.Location = new System.Drawing.Point(35, 172);
-            this.txttelefono.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txttelefono.Margin = new System.Windows.Forms.Padding(2);
             this.txttelefono.Name = "txttelefono";
             this.txttelefono.PasswordChar = '*';
             this.txttelefono.Size = new System.Drawing.Size(117, 20);
@@ -397,7 +397,7 @@
             // txtcorreo
             // 
             this.txtcorreo.Location = new System.Drawing.Point(34, 136);
-            this.txtcorreo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtcorreo.Margin = new System.Windows.Forms.Padding(2);
             this.txtcorreo.Name = "txtcorreo";
             this.txtcorreo.Size = new System.Drawing.Size(119, 20);
             this.txtcorreo.TabIndex = 35;
@@ -405,7 +405,7 @@
             // txtnombrecompleto
             // 
             this.txtnombrecompleto.Location = new System.Drawing.Point(34, 101);
-            this.txtnombrecompleto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtnombrecompleto.Margin = new System.Windows.Forms.Padding(2);
             this.txtnombrecompleto.Name = "txtnombrecompleto";
             this.txtnombrecompleto.Size = new System.Drawing.Size(119, 20);
             this.txtnombrecompleto.TabIndex = 34;
@@ -413,7 +413,7 @@
             // txtdocumento
             // 
             this.txtdocumento.Location = new System.Drawing.Point(35, 64);
-            this.txtdocumento.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtdocumento.Margin = new System.Windows.Forms.Padding(2);
             this.txtdocumento.Name = "txtdocumento";
             this.txtdocumento.Size = new System.Drawing.Size(117, 20);
             this.txtdocumento.TabIndex = 33;
@@ -492,7 +492,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmClientes";
             this.Text = "frmClientes";
             this.Load += new System.EventHandler(this.frmClientes_Load);
