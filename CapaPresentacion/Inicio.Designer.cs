@@ -280,7 +280,7 @@
             // menutitulo
             // 
             this.menutitulo.AutoSize = false;
-            this.menutitulo.BackColor = System.Drawing.Color.SteelBlue;
+            this.menutitulo.BackColor = System.Drawing.Color.Firebrick;
             this.menutitulo.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menutitulo.Location = new System.Drawing.Point(0, 0);
             this.menutitulo.Name = "menutitulo";
@@ -294,7 +294,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.SteelBlue;
+            this.label1.BackColor = System.Drawing.Color.Firebrick;
             this.label1.Font = new System.Drawing.Font("Comic Sans MS", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.Control;
             this.label1.Location = new System.Drawing.Point(13, 14);
@@ -315,7 +315,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.SteelBlue;
+            this.label2.BackColor = System.Drawing.Color.Firebrick;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(924, 26);
@@ -327,7 +327,7 @@
             // lblusuario
             // 
             this.lblusuario.AutoSize = true;
-            this.lblusuario.BackColor = System.Drawing.Color.SteelBlue;
+            this.lblusuario.BackColor = System.Drawing.Color.Firebrick;
             this.lblusuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblusuario.ForeColor = System.Drawing.Color.White;
             this.lblusuario.Location = new System.Drawing.Point(995, 26);
@@ -338,14 +338,14 @@
             // 
             // btnsalir
             // 
-            this.btnsalir.BackColor = System.Drawing.Color.SteelBlue;
+            this.btnsalir.BackColor = System.Drawing.Color.Firebrick;
             this.btnsalir.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnsalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnsalir.IconChar = FontAwesome.Sharp.IconChar.SignInAlt;
             this.btnsalir.IconColor = System.Drawing.Color.White;
             this.btnsalir.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnsalir.Location = new System.Drawing.Point(848, 2);
-            this.btnsalir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnsalir.Margin = new System.Windows.Forms.Padding(4);
             this.btnsalir.Name = "btnsalir";
             this.btnsalir.Size = new System.Drawing.Size(81, 66);
             this.btnsalir.TabIndex = 6;
